@@ -1,0 +1,16 @@
+git clone https://... (kada se prvi put klonira na racunaru)
+
+----------------------
+
+
+git add . (Dodaj sve)
+
+git commit -m "Menjao sam to i to" (Potvrda izmena)
+
+git push (slanje izmena na github serveru)
+
+
+
+---------------------
+
+git pull (preuzimanje novih izmena - kada repozitorijum vec postoji na racunaru)
